@@ -1,0 +1,31 @@
+body{
+    background-color:darkslateblue;
+}
+img {
+    background-color: darkslateblue;
+}
+.batImg {
+    width: 10%;
+    height: 10%;
+    background-color: red;
+}
+h1,h2,h3{
+    color: bisque;}
+hr{
+    height: 0px;
+    border-style: dotted none none none;
+    border-color: bisque;
+    width: 5%;
+    
+}
+table,
+th,
+td {
+    padding: 5px;
+    border-collapse: collapse;
+}
+tr:nth-child(odd) {background-color: ghostwhite;}
+tr:nth-child(even) {background-color: ghostwhite;}
+tr:hover {background-color: yellow;}
+
+
